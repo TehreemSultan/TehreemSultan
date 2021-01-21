@@ -1,6 +1,6 @@
 ### Hi Humans 👋
 
- 🔭 I’m currently working on Full stack Web Development
+ 🔭 I’m currently working on Full stack Web Development<br>
  🌱 I’m currently learning React, Node, Express 
  👯 I’m looking to collaborate on web development
  🤔 I’m looking for help with new web ideas
